@@ -34,4 +34,4 @@ Customize other preferences to suit your viewing habits.
 
 # Here is a short video of my work #
 
-https://github.com/imkeertiag/Youtube_AutoPause_ChromeExt/assets/135499447/279d91c4-646a-4afd-9b43-834091466305
+https://github.com/imkeertiag/Youtube_AutoPause_ChromeExt/assets/135499447/5c94bf96-de09-49f9-b5c8-7ff3d5d7bb04
